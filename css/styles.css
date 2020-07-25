@@ -61,3 +61,10 @@ z-index:0;}
     
 }
 .modal{color:black;}
+
+#carouselButtons {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
